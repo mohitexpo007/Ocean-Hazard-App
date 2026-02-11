@@ -1,0 +1,152 @@
+[
+  {
+    "q": "what to do during flood",
+    "a": "Move to higher ground immediately. Avoid walking or driving through floodwater. Disconnect electrical power if safe. Keep a battery-powered radio and follow official alerts.",
+    "keywords": ["flood", "inundation", "river", "rain", "waterlogging", "flash flood"]
+  },
+  {
+    "q": "cyclone safety",
+    "a": "Stay indoors away from windows, secure loose items, keep an emergency kit, charge phones/power banks, and follow evacuation orders from authorities.",
+    "keywords": ["cyclone", "hurricane", "typhoon", "storm", "landfall", "winds"]
+  },
+  {
+    "q": "tsunami safety",
+    "a": "If you feel a strong or long coastal earthquake or see sudden sea withdrawal, move to high ground immediately and stay there until authorities declare all clear.",
+    "keywords": ["tsunami", "earthquake", "sea withdrawal", "seismic", "coast", "runup"]
+  },
+  {
+    "q": "storm surge precautions",
+    "a": "Evacuate low-lying coastal areas when advised. Avoid beaches and estuaries, move vehicles and valuables to higher ground, and prepare to be without power.",
+    "keywords": ["storm surge", "cyclone", "coastal flooding", "tide", "inundation"]
+  },
+  {
+    "q": "rip current safety",
+    "a": "If caught in a rip, stay calm, float, and swim parallel to the shore to escape the current. Then swim back at an angle. Do not swim directly against it.",
+    "keywords": ["rip current", "riptide", "beach", "swimming", "current"]
+  },
+  {
+    "q": "how to prepare a cyclone emergency kit",
+    "a": "Pack water, dry food, medicines, first-aid, torch, batteries, power bank, radio, copies of IDs in waterproof pouches, cash, and essential clothing.",
+    "keywords": ["emergency kit", "cyclone", "supplies", "go bag", "preparedness"]
+  },
+  {
+    "q": "what to do after flood",
+    "a": "Return only when authorities say it is safe. Avoid standing water, check for gas/electrical hazards, wear gloves and boots, and disinfect items and water sources.",
+    "keywords": ["after flood", "cleanup", "return home", "sanitation", "contamination"]
+  },
+  {
+    "q": "drinking water safety after flood",
+    "a": "Assume water sources are contaminated. Use bottled water or boil water for at least 1 minute. Disinfect containers and avoid using floodwater for cooking.",
+    "keywords": ["water safety", "boil water", "contamination", "flood", "drinking"]
+  },
+  {
+    "q": "fishermen advisory during cyclone",
+    "a": "Do not venture into the sea. Secure boats and nets, move them inland if possible, and follow marine warnings until the all clear is issued.",
+    "keywords": ["fishermen", "cyclone", "marine warning", "boats", "harbor"]
+  },
+  {
+    "q": "boating safety during rough sea",
+    "a": "Avoid non-essential trips, wear life jackets, file a float plan, carry VHF/radio and emergency beacons, and monitor official marine bulletins.",
+    "keywords": ["boat", "rough sea", "life jacket", "marine", "radio"]
+  },
+  {
+    "q": "tsunami natural warnings",
+    "a": "Strong or long coastal earthquake, loud ocean roar, or sudden sea withdrawal are warning signs. Evacuate to high ground immediately.",
+    "keywords": ["tsunami", "earthquake", "sea noise", "withdrawal", "natural warning"]
+  },
+  {
+    "q": "cyclone categories meaning",
+    "a": "Higher categories mean stronger winds and greater damage risk. Treat all categories seriously, follow advisories, and evacuate when told.",
+    "keywords": ["cyclone category", "intensity", "wind speed", "Saffir Simpson"]
+  },
+  {
+    "q": "what to do during coastal lightning",
+    "a": "Seek shelter indoors or in a hard-topped vehicle. Avoid open beaches, metal objects, and water. Wait 30 minutes after the last thunder.",
+    "keywords": ["lightning", "thunderstorm", "beach", "shelter"]
+  },
+  {
+    "q": "storm surge vs tsunami difference",
+    "a": "Storm surge is wind-driven sea level rise from cyclones; tsunami is a series of waves from undersea disturbances. Both can flood coasts quickly.",
+    "keywords": ["storm surge", "tsunami", "difference", "cyclone", "earthquake"]
+  },
+  {
+    "q": "red tide and harmful algal bloom safety",
+    "a": "Avoid contact with discolored water and inhaling sea spray. Do not consume contaminated seafood and heed local advisories.",
+    "keywords": ["red tide", "HAB", "algal bloom", "seafood", "irritation"]
+  },
+  {
+    "q": "oil spill exposure safety",
+    "a": "Avoid contact with oil and fumes. Do not touch oiled wildlife. Report sightings to authorities and follow beach closure advisories.",
+    "keywords": ["oil spill", "pollution", "cleanup", "hazmat", "exposure"]
+  },
+  {
+    "q": "coastal erosion safety",
+    "a": "Stay away from unstable cliffs and eroding shorelines, obey closures, and avoid walking on dunes and freshly scarped edges.",
+    "keywords": ["coastal erosion", "cliffs", "shoreline", "dune", "collapse"]
+  },
+  {
+    "q": "marine heatwave impacts",
+    "a": "Marine heatwaves stress corals and fisheries. Follow local advisories for fishing closures and avoid disturbing stressed reefs.",
+    "keywords": ["marine heatwave", "coral bleaching", "fisheries", "warm sea"]
+  },
+  {
+    "q": "evacuation tips for coastal disasters",
+    "a": "Leave early, follow signed routes, carry your emergency kit, secure your home if time permits, and help neighbors who need assistance.",
+    "keywords": ["evacuation", "route", "kit", "leave early", "coastal"]
+  },
+  {
+    "q": "how to receive official alerts",
+    "a": "Use government weather and disaster apps, radio, and trusted news. Enable notifications and follow state and district advisories.",
+    "keywords": ["alerts", "warning", "app", "radio", "official"]
+  },
+  {
+    "q": "pet safety during evacuation",
+    "a": "Bring pets with you. Pack food, water, leash, carrier, and medical records. Never leave animals tied or in flooded areas.",
+    "keywords": ["pets", "evacuation", "animals", "kit", "safety"]
+  },
+  {
+    "q": "first aid for near drowning",
+    "a": "Call for help. If trained, begin rescue breathing and CPR if needed. Keep the person warm and seek medical attention immediately.",
+    "keywords": ["drowning", "rescue", "CPR", "breathing", "first aid"]
+  },
+  {
+    "q": "landslide risk during coastal heavy rain",
+    "a": "Stay away from steep, saturated slopes and retaining walls showing cracks. Evacuate if you hear unusual rumbling or see rapid water flow.",
+    "keywords": ["landslide", "heavy rain", "slope", "cracks", "debris flow"]
+  },
+  {
+    "q": "safe distance from shore during tsunami warning",
+    "a": "Move at least several hundred meters inland or to elevations of 30 meters if possible. Follow local guidance on safe zones.",
+    "keywords": ["tsunami", "evacuation zone", "elevation", "safe distance"]
+  },
+  {
+    "q": "what to do during high waves and swells",
+    "a": "Avoid rock platforms and jetties, keep a safe distance from breaking waves, and postpone fishing or photography near surf zones.",
+    "keywords": ["high waves", "swell", "surf", "rock fishing", "jetty"]
+  },
+  {
+    "q": "sea level rise preparedness",
+    "a": "Know your local flood maps, elevate valuables, plan evacuation routes, and consider long-term adaptation measures.",
+    "keywords": ["sea level rise", "flood map", "adaptation", "preparedness"]
+  },
+  {
+    "q": "how to report a coastal hazard",
+    "a": "Share clear location, photos, time, and description through official channels or your local citizen-reporting app when safe to do so.",
+    "keywords": ["report hazard", "photo", "location", "citizen", "app"]
+  },
+  {
+    "q": "power safety during flood",
+    "a": "Turn off electricity at the main breaker if advised and safe. Do not touch electrical equipment if wet. Get appliances checked before use.",
+    "keywords": ["electricity", "power", "breaker", "wet", "shock"]
+  },
+  {
+    "q": "food safety after flood",
+    "a": "Discard food that contacted floodwater. When in doubt, throw it out. Keep refrigerated foods below 5°C and cook thoroughly.",
+    "keywords": ["food safety", "flood", "contamination", "refrigeration"]
+  },
+  {
+    "q": "children safety near water during disasters",
+    "a": "Keep children within arm’s reach near water, avoid playing in floodwater, and ensure they know basic emergency rules.",
+    "keywords": ["children", "kids", "water safety", "flood", "supervision"]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768563455890",
+    "project_id": "myoceanapp-75531",
+    "storage_bucket": "myoceanapp-75531.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768563455890:android:371422f38dca58509e434b",
+        "android_client_info": {
+          "package_name": "com.example.myoceanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApD97tiPJN7D_yqVIVtqz6ry-AQ5svjwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
